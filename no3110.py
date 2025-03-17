@@ -11,7 +11,3 @@ class Solution:
                     ans += diff
             pre = num
         return ans
-
-
-sol = Solution()
-print(sol.scoreOfString("hello"))
